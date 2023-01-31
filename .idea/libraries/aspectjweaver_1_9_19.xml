@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="aspectjweaver-1.9.19">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../aspectjweaver-1.9.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/aspectjweaver-1.9.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
